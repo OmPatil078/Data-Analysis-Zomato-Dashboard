@@ -34,8 +34,8 @@ The objective of this project is to analyze restaurant data from Zomato and deve
 
 ### Dashboard Screenshot
 
-![Dashboard Screenshot](<img width="1328" height="747" alt="Screenshot 2026-06-18 151341" src="https://github.com/user-attachments/assets/261e3541-83e2-4a74-9a38-1706297faccd" />
-)
+<img width="1328" height="747" alt="Screenshot 2026-06-18 151341" src="https://github.com/user-attachments/assets/ec553741-db6c-4247-85e1-3a52e1c7e3fa" />
+
 
 ## Project Insights
 
