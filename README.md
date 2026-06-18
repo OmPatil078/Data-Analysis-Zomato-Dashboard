@@ -1,4 +1,4 @@
-# Zomato Restaurant Analytics Dashboard (MySQL & Tableau)
+# Zomato Restaurant Analytics Dashboard 
 
 ## Project Objective
 
